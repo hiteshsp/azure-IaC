@@ -6,10 +6,10 @@ provider "azurerm" {
     version = "~>2.0"
     features {}
 
-    subscription_id = "5675eec8-b691-4b63-866c-8daf8b582d37"
-    client_id       = "fc5c66c8-74d1-4a40-8d6c-19adfee98747"
-    client_secret   = "kpyVR-T7CpmJGZOlI5WetJ21NOIPC-@/"
-    tenant_id       = "b5e3be01-50d9-4233-b10a-2eb8f619b005"
+    subscription_id = ""
+    client_id       = ""
+    client_secret   = ""
+    tenant_id       = ""
 }
 
 # Create a resource group if it doesn't exist
